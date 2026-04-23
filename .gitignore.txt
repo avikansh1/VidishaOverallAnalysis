@@ -1,0 +1,12 @@
+# Python / Data Science specifics
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
+
+# OS specific
+.DS_Store
+
+# Data files (Optional: keep these out if they are large)
+*.csv
+*.xlsx
